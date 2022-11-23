@@ -138,6 +138,7 @@
     * [Binary Search](https://github.com/bellshade/Python/blob/main/algorithm/searching/binary_search.py)
     * [Linear Search](https://github.com/bellshade/Python/blob/main/algorithm/searching/linear_search.py)
   * Sorting
+    * [Bead Sort](https://github.com/bellshade/Python/blob/main/algorithm/sorting/bead_sort.py)
     * [Bubble Sort](https://github.com/bellshade/Python/blob/main/algorithm/sorting/bubble_sort.py)
     * [Bubble Sort Ascii](https://github.com/bellshade/Python/blob/main/algorithm/sorting/bubble_sort_ascii.py)
     * [Pop Sort](https://github.com/bellshade/Python/blob/main/algorithm/sorting/pop_sort.py)
@@ -280,7 +281,11 @@
     * Avl Tree
       * [Avl Tree](https://github.com/bellshade/Python/blob/main/struktur_data/tree/avl_tree/avl_tree.py)
     * Binary Search Tree
+      * [Basic Binary Tree](https://github.com/bellshade/Python/blob/main/struktur_data/tree/binary_search_tree/basic_binary_tree.py)
       * [Binary Search Tree](https://github.com/bellshade/Python/blob/main/struktur_data/tree/binary_search_tree/binary_search_tree.py)
+      * [Binary Search Tree Rekursif](https://github.com/bellshade/Python/blob/main/struktur_data/tree/binary_search_tree/binary_search_tree_rekursif.py)
+      * [Binary Tree Node Sum](https://github.com/bellshade/Python/blob/main/struktur_data/tree/binary_search_tree/binary_tree_node_sum.py)
+      * [Binary Tree Path Sum](https://github.com/bellshade/Python/blob/main/struktur_data/tree/binary_search_tree/binary_tree_path_sum.py)
 
 ## Web Programming
   * [Breadcrumb Generator](https://github.com/bellshade/Python/blob/main/web_programming/breadcrumb_generator.py)
